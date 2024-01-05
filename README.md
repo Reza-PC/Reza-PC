@@ -1,6 +1,3 @@
-## 🎶Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0g6w90e44y5o2496z5cfzga1e&cover_image=true&theme=default&bar_color=4f11ac)](https://github.com/kittinan/spotify-github-profile)
-
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BufsbXNprV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RezaPC83) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza_pc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pc_reza) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCAd06UM5OMIJnlEWqhs3KDg) 
 
